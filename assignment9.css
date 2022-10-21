@@ -1,0 +1,238 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html body{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+}
+.maindiv{
+    background-color: #bc5152;
+    height:195px;
+    width: 100%;
+}
+.leftheader{
+    background-color:#bc5152 ;
+    width: 100%;
+    height:50px;
+    color: white;
+    position:sticky;
+    top: 0%;
+    padding-top:20px;
+}
+.fullstack{
+    position: static;
+}
+#leftcontent{
+    margin-left:80px;
+    font-size: x-large;
+}
+.rightheader{
+    float: right;
+    margin-right:90px;
+}
+.rightcontent{
+    margin: 10px;
+    font-size:20px;
+}
+
+.fullstack{
+    margin-top:39px;
+    margin-left:32%;
+    font-size:50px;
+}
+.p1{
+    margin-left:43%;
+    font-size:10px;
+}
+
+.secondmaindiv{
+   
+    height: 195px;
+    width: 100%;
+    position: relative;
+    
+}
+
+.content1{
+    
+    height: 70%;
+    width: 250px;
+    padding: 7px;
+    margin-top: 20px;
+    margin-left: 180px;
+    
+}
+.h3{
+    color: #bc5152;
+
+}
+.p2{
+    color:lightslategray;
+    font-size: small;
+}
+.btn1{
+    color: white;
+    background-color: #bc5152;
+    padding: 5px;
+    margin-top: 5px;
+    border: none;
+}
+.content2{
+    
+    height: 70%;
+    width: 250px;
+
+    margin-top: 20px;
+    margin-left: 80px;
+    position: absolute;
+    right: 200px;
+    bottom: 54px;
+}
+.content3{
+    height: 70%;
+    width: 250px;
+   
+    margin-top: 20px;
+    margin-left: 80px;
+    position: absolute;
+    right: 500px;
+    bottom: 54px;
+}
+/* .arrowbot{
+position: absolute;
+right:0;
+bottom: 0;
+} */
+.thirddivheading{
+    text-align: center;
+    color: white;
+}
+.thirddiv{
+    background-color: #bc5152;
+        height: 25em;
+        width: 100%;
+        margin-top: 5%;
+}
+.h2{
+    color: white;
+    text-align: center;
+    font-size:xx-large;
+}
+.p3{
+    color: white;
+    text-align: center;
+    font-size: small;
+}
+
+.imagediv1{
+    text-align: center;
+    border: 1px solid rgb(161, 160, 156);
+     margin-right: 17%;
+    margin-top: 1%; 
+    float:right;
+    box-shadow: 1px 1px rgb(161, 160, 156);
+}
+.imagediv2{
+    text-align: center;
+    border: 1px solid rgb(161, 160, 156);
+    margin-right: 3%;
+    margin-top: 1%;
+    float: right;
+    box-shadow: 1px 1px rgb(161, 160, 156);
+}
+.imagediv3{
+    text-align: center;
+    border: 1px solid rgb(161, 160, 156);
+    margin-right: 3%;
+    margin-top: 1%;
+    float: right;
+    box-shadow: 1px 1px rgb(161, 160, 156);
+}
+.imagediv4{
+    text-align: center;
+    border: 1px solid rgb(161, 160, 156);
+    margin-right: 3%;
+    margin-top: 1%;
+     float: right;
+    box-shadow: 1px 1px rgb(161, 160, 156);
+}  
+
+.img{
+    height: 1.7in;
+    width: 1.7in;
+    border-radius: 50%;
+    padding: 10px;
+}
+.aircampusimg{
+    width: 1in;
+    margin-left: 50%;
+    margin-top: -5%;
+    margin-bottom: -10%;
+    border-radius: 6px;
+}
+.p4{
+   color: rgb(161, 160, 156); 
+}
+
+.fourthdivheading{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    color:#bc5152;
+}
+
+.lastheading{
+    padding-top:50px ;
+    font-size: xx-large;
+}
+.lastpara{
+    font-size: small;
+}
+
+.imagedivv{
+    float: right;
+    margin-right:15% ;
+    padding: 50px;
+    border: 1px transparent white;
+    
+}
+.imagedivvv{
+    float: right;
+    padding: 50px;
+    border: 1px transparent white;
+}
+.imageh2{
+    color: #bc5152;
+    font-weight: bold;
+    font-size: large;
+}
+.imagepara{
+    color:rgb(161, 160, 156);
+    font-size: small;
+    padding-top: 8px;
+}
+.footer{
+    margin-bottom:3%;
+     background-color: gray;  
+    height:0px;
+}
+.footer h6{
+    color: rgb(189, 189, 189);
+    margin-left: 10%;
+}
+.icon{
+    position: fixed;
+    right: 60px;
+    bottom: 40px;
+}
+.social{
+    color:  rgb(226, 105, 105);
+    float: right;
+    margin-top: -3.5%;
+    margin-right: 5%;
+}
+.social i{
+    padding: 10px;
+}
